@@ -110,4 +110,4 @@ namespace Lab41
                 Console.WriteLine(student.StudentRating(Rating));
             }
         }
-    }
+    } 
