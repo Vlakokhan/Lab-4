@@ -1,0 +1,13 @@
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.csprojAssemblyReference.cache
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.AssemblyInfoInputs.cache
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.AssemblyInfo.cs
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.csproj.CoreCompileInputs.cache
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.exe
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.deps.json
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.runtimeconfig.json
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.runtimeconfig.dev.json
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.dll
+C:\Users\vladi\RiderProjects\Lab42\Lab42\bin\Debug\netcoreapp3.1\Lab42.pdb
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.dll
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.pdb
+C:\Users\vladi\RiderProjects\Lab42\Lab42\obj\Debug\netcoreapp3.1\Lab42.genruntimeconfig.cache
