@@ -4,7 +4,7 @@
     {
         public class Book
         {
-            private string[] author = new string[100];
+            private string[] author = new string[100]; 
             private string[] title = new string[100];
             private string[] publication = new string[100];
             private int[] year = new int[100];
